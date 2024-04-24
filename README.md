@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Final_Project
 ==============================
 
@@ -55,3 +56,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# Final_project
+Epsilon_Final_project
+>>>>>>> 04304c7c41589cbfc0fb2ea75a9e6c684c3230f3
